@@ -1,2 +1,2 @@
-# glass
-General Linear Algebra Subroutines
+# ILAS
+Iterative Linear Algebra Subroutines
